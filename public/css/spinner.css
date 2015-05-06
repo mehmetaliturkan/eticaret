@@ -1,0 +1,9 @@
+#yukleniyor {
+    background:#000 url('../images/generated-image.gif') no-repeat center center;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    left:0;
+    top:0;
+    z-index: 1000;
+}

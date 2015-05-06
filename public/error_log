@@ -1,0 +1,54 @@
+[28-Apr-2015 20:43:13 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[28-Apr-2015 20:43:23 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[28-Apr-2015 20:43:28 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[28-Apr-2015 20:44:01 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[28-Apr-2015 20:44:07 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[28-Apr-2015 20:45:00 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[28-Apr-2015 20:46:09 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[28-Apr-2015 20:49:36 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[28-Apr-2015 20:52:51 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[28-Apr-2015 20:55:36 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[28-Apr-2015 21:06:44 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[28-Apr-2015 21:11:44 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[28-Apr-2015 21:13:22 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[28-Apr-2015 21:13:28 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[28-Apr-2015 21:15:06 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[28-Apr-2015 21:17:28 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[28-Apr-2015 21:30:48 UTC] PHP Fatal error:  Class 'PayPal\Rest\ApiContext' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 23
+[29-Apr-2015 04:09:29 UTC] PHP Fatal error:  Can't use function return value in write context in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 16
+[29-Apr-2015 04:10:50 UTC] PHP Fatal error:  Class 'Senty' not found in /home/knqmatur/public_html/eticaret/app/controllers/PaypalController.php on line 18
+[29-Apr-2015 05:18:26 UTC] PHP Fatal error:  Call to undefined function Teslimatadresim() in /home/knqmatur/public_html/eticaret/app/controllers/UyeController.php on line 329
+[29-Apr-2015 05:18:44 UTC] PHP Fatal error:  Call to undefined function Teslimatadresim() in /home/knqmatur/public_html/eticaret/app/controllers/UyeController.php on line 329
+[29-Apr-2015 05:18:58 UTC] PHP Fatal error:  Call to undefined function Teslimatadresim() in /home/knqmatur/public_html/eticaret/app/controllers/UyeController.php on line 329
+[29-Apr-2015 05:20:24 UTC] PHP Fatal error:  Call to undefined function Teslimatadresim() in /home/knqmatur/public_html/eticaret/app/controllers/UyeController.php on line 329
+[02-May-2015 11:26:04 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/knqmatur/public_html/eticaret/app/storage/views/db7b10ada7550fc42ddc001a4652bb27 on line 120
+[02-May-2015 11:30:37 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/knqmatur/public_html/eticaret/app/storage/views/db7b10ada7550fc42ddc001a4652bb27 on line 120
+[02-May-2015 12:25:10 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/knqmatur/public_html/eticaret/app/storage/views/db7b10ada7550fc42ddc001a4652bb27 on line 165
+[02-May-2015 12:25:13 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/knqmatur/public_html/eticaret/app/storage/views/db7b10ada7550fc42ddc001a4652bb27 on line 165
+[02-May-2015 12:25:59 UTC] PHP Fatal error:  Call to a member function count() on a non-object in /home/knqmatur/public_html/eticaret/app/storage/views/db7b10ada7550fc42ddc001a4652bb27 on line 165
+[02-May-2015 12:27:09 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/knqmatur/public_html/eticaret/app/storage/views/db7b10ada7550fc42ddc001a4652bb27 on line 165
+[02-May-2015 14:01:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/knqmatur/public_html/eticaret/app/storage/views/db7b10ada7550fc42ddc001a4652bb27 on line 211
+[02-May-2015 14:48:50 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Query\JoinClause::orderBy() in /home/knqmatur/public_html/eticaret/app/controllers/YonetimController.php on line 20
+[02-May-2015 16:53:24 UTC] PHP Parse error:  syntax error, unexpected '$item' (T_VARIABLE), expecting ',' or ';' in /home/knqmatur/public_html/eticaret/app/storage/views/db7b10ada7550fc42ddc001a4652bb27 on line 134
+[02-May-2015 17:01:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/knqmatur/public_html/eticaret/app/storage/views/db7b10ada7550fc42ddc001a4652bb27 on line 137
+[03-May-2015 12:39:42 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: odenmesi_gereken_net_fiyat' in /home/knqmatur/public_html/eticaret/app/controllers/YonetimController.php:35
+Stack trace:
+#0 /home/knqmatur/public_html/eticaret/app/controllers/YonetimController.php(35): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/knqmatur/...', 35, Array)
+#1 [internal function]: YonetimController->__construct()
+#2 /home/knqmatur/public_html/eticaret/vendor/laravel/framework/src/Illuminate/Container/Container.php(539): ReflectionClass->newInstanceArgs(Array)
+#3 /home/knqmatur/public_html/eticaret/vendor/laravel/framework/src/Illuminate/Container/Container.php(428): Illuminate\Container\Container->build('YonetimControll...', Array)
+#4 /home/knqmatur/public_html/eticaret/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(462): Illuminate\Container\Container->make('YonetimControll...', Array)
+#5 /home/knqmatur/public_html/eticaret/vendor/laravel/framework/src/Illuminate/Routing/Cont in /home/knqmatur/public_html/eticaret/app/controllers/YonetimController.php on line 35
+[03-May-2015 12:39:42 UTC] PHP Fatal error:  Cannot access empty property in /home/knqmatur/public_html/eticaret/app/controllers/YonetimController.php on line 35
+[03-May-2015 12:40:16 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: odenmesi_gereken_net_fiyat' in /home/knqmatur/public_html/eticaret/app/controllers/YonetimController.php:35
+Stack trace:
+#0 /home/knqmatur/public_html/eticaret/app/controllers/YonetimController.php(35): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', '/home/knqmatur/...', 35, Array)
+#1 [internal function]: YonetimController->__construct()
+#2 /home/knqmatur/public_html/eticaret/vendor/laravel/framework/src/Illuminate/Container/Container.php(539): ReflectionClass->newInstanceArgs(Array)
+#3 /home/knqmatur/public_html/eticaret/vendor/laravel/framework/src/Illuminate/Container/Container.php(428): Illuminate\Container\Container->build('YonetimControll...', Array)
+#4 /home/knqmatur/public_html/eticaret/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(462): Illuminate\Container\Container->make('YonetimControll...', Array)
+#5 /home/knqmatur/public_html/eticaret/vendor/laravel/framework/src/Illuminate/Routing/Cont in /home/knqmatur/public_html/eticaret/app/controllers/YonetimController.php on line 35
+[03-May-2015 12:40:16 UTC] PHP Fatal error:  Cannot access empty property in /home/knqmatur/public_html/eticaret/app/controllers/YonetimController.php on line 35
+[03-May-2015 15:25:22 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/knqmatur/public_html/eticaret/app/storage/views/db7b10ada7550fc42ddc001a4652bb27 on line 88
+[03-May-2015 15:34:40 UTC] PHP Fatal error:  Undefined class constant 'getUserInfo' in /home/knqmatur/public_html/eticaret/app/controllers/YonetimController.php on line 282
+[03-May-2015 15:54:37 UTC] PHP Fatal error:  Undefined class constant 'HEADER_CLIENT_IP' in /home/knqmatur/public_html/eticaret/app/controllers/YonetimController.php on line 279
