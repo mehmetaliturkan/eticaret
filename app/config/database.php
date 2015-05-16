@@ -48,9 +48,9 @@ return array(
         'mysql' => array(
             'driver' => 'mysql',
             'host' => 'localhost',
-            'database' => 'database',
-            'username' => 'username',
-            'password' => 'password',
+            'database' => 'knqmatur_eticar',
+            'username' => 'knqmatur',
+            'password' => 'iskenderuN123',
             'charset' => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix' => '',
