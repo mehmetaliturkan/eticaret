@@ -290,9 +290,7 @@ class UyeController extends BaseController {
         }
         $kargo = 0;
         if ($toplamFiyat < 200) {
-            $kargo = 9.99;
-        } else {
-            
+            $kargo = 9.99; 
         }
         $gidecekson = "<div class='box-body table-responsive'>
                         <table id='example1'class='table table-bordered table-striped'>

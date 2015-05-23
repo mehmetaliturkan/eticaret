@@ -27,10 +27,10 @@
 
                     <div class="box">
                         <div class="box-header">
-                            <h3 class="box-title">Verilen Siparişler</h3>                                    
+                            <h3 class="box-title">Siteye Yapılmıs ziyaretler</h3>                                    
                         </div><!-- /.box-header -->
 
-
+ 
                         <div class="box-body table-responsive">
                             <table id="example1" class="table table-bordered table-striped">
                                 <thead>
@@ -41,7 +41,7 @@
                                        <th>REQUEST_TIME</th>
                                        <th>HTTP ACCEPT LANGUAGE</th>
                                        <th>HTTP USER AGENT</th>
-                                       <th>REQUEST_METHOD</th>
+                                       <th>REQUEST_METHOD</th> 
                                      
                                     </tr>
                                 </thead>

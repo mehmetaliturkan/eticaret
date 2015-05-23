@@ -350,6 +350,7 @@
             modal.find('.modal-title').text(adi);
         } else if (adi == 'Sipariş detayi') {
             var modal = $(this);
+ 
             $.ajax({
                 url: "http://eticaret.maturkan.com/uye/siparis-detay",
                 type: 'POST',
